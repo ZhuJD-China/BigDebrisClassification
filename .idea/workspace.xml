@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b074de0f-11bb-46c3-b82d-b4c9c7564b91" name="Default Changelist" comment="add onnx run" />
+    <list default="true" id="b074de0f-11bb-46c3-b82d-b4c9c7564b91" name="Default Changelist" comment="add onnx run">
+      <change beforePath="$PROJECT_DIR$/onnxModelRun.py" beforeDir="false" afterPath="$PROJECT_DIR$/onnxModelRun.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647313886302</updated>
       <workItem from="1647313887617" duration="33571000" />
-      <workItem from="1647572956816" duration="13099000" />
+      <workItem from="1647572956816" duration="13695000" />
     </task>
     <task id="LOCAL-00001" summary="add model">
       <created>1647572143199</created>
@@ -208,10 +210,10 @@
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
     <state x="2012" y="101" width="1736" height="856" key="ShowDiffWithBranchDialog/1920.9.1920.1040/0.0.1920.1040@1920.9.1920.1040" timestamp="1647582837757" />
-    <state x="2472" y="262" key="Vcs.Push.Dialog.v2" timestamp="1647582488921">
+    <state x="2472" y="262" key="Vcs.Push.Dialog.v2" timestamp="1647590919428">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state x="2472" y="262" key="Vcs.Push.Dialog.v2/1920.9.1920.1040/0.0.1920.1040@1920.9.1920.1040" timestamp="1647582488921" />
+    <state x="2472" y="262" key="Vcs.Push.Dialog.v2/1920.9.1920.1040/0.0.1920.1040@1920.9.1920.1040" timestamp="1647590919428" />
     <state x="2673" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647572194825">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
