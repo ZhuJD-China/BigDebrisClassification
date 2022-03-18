@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b074de0f-11bb-46c3-b82d-b4c9c7564b91" name="Default Changelist" comment="">
+    <list default="true" id="b074de0f-11bb-46c3-b82d-b4c9c7564b91" name="Default Changelist" comment="add model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647313886302</updated>
-      <workItem from="1647313887617" duration="32774000" />
+      <workItem from="1647313887617" duration="32833000" />
     </task>
+    <task id="LOCAL-00001" summary="add model">
+      <created>1647572143199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647572143199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +85,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add model" />
+    <option name="LAST_COMMIT_MESSAGE" value="add model" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2660" y="283" key="FileChooserDialogImpl" timestamp="1647565834125">
