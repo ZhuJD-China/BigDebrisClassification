@@ -40,12 +40,6 @@ test_df = proc_img(test_filepaths)
 
 print(f'Number of pictures in the test dataset: {test_df.shape[0]}\n')
 
-# Load the Images with a generator and Data Augmentation
-train_generator = tf.keras.preprocessing.image.ImageDataGenerator(
-    preprocessing_function=tf.keras.applications.mobilenet_v2.preprocess_input,
-    validation_split=0.1
-)
-
 test_generator = tf.keras.preprocessing.image.ImageDataGenerator(
     preprocessing_function=tf.keras.applications.mobilenet_v2.preprocess_input
 )
@@ -75,3 +69,5 @@ y_test = list(test_df.Label)
 
 acc = accuracy_score(y_test, pred)
 print(f'# Accuracy on the test set: {acc * 100:.2f}%')
+
+
