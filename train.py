@@ -261,6 +261,9 @@ plt.show()
 
 # Create and train the model
 model = get_model(tf.keras.applications.DenseNet201)
+
+model.save('./models/DenseNet201_20220318_01.h5')
+# model = load_model(model_path)
 history = model.fit(train_images,
                     validation_data=val_images,
                     epochs=50,
