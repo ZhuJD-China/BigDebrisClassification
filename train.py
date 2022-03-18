@@ -250,7 +250,7 @@ df_results = pd.DataFrame(models_result,
                           columns=['model', 'val_accuracy', 'accuracy', 'Training time (sec)'])
 df_results.sort_values(by='accuracy', ascending=False, inplace=True)
 df_results.reset_index(inplace=True, drop=True)
-df_results
+print(df_results)
 
 plt.figure(figsize=(15, 5))
 sns.barplot(x='model', y='val_accuracy', data=df_results)

@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b074de0f-11bb-46c3-b82d-b4c9c7564b91" name="Default Changelist" comment="add model">
+      <change afterPath="$PROJECT_DIR$/.idea/BigDebrisClassification.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +50,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/result" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -60,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647313886302</updated>
-      <workItem from="1647313887617" duration="32833000" />
+      <workItem from="1647313887617" duration="33571000" />
+      <workItem from="1647572956816" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="add model">
       <created>1647572143199</created>
@@ -85,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add model" />
@@ -99,6 +109,10 @@
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
     <state x="2381" y="173" key="SettingsEditor/1920.9.1920.1040/0.0.1920.1040@1920.9.1920.1040" timestamp="1647423141594" />
+    <state x="2673" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647572194825">
+      <screen x="1920" y="9" width="1920" height="1040" />
+    </state>
+    <state x="2673" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.9.1920.1040/0.0.1920.1040@1920.9.1920.1040" timestamp="1647572194825" />
     <state x="2543" y="234" key="search.everywhere.popup" timestamp="1647315332719">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
