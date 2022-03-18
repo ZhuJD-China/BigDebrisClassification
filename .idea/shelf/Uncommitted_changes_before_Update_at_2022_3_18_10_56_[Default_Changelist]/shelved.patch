@@ -1,0 +1,49 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"b074de0f-11bb-46c3-b82d-b4c9c7564b91\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/train.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/train.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"26P8VjdGONR7C5UNAPwSyHiwwT4\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/result\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\" />\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"b074de0f-11bb-46c3-b82d-b4c9c7564b91\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1647313886302</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1647313886302</updated>\r\n      <workItem from=\"1647313887617\" duration=\"32774000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"2660\" y=\"283\" key=\"FileChooserDialogImpl\" timestamp=\"1647565834125\">\r\n      <screen x=\"1920\" y=\"9\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"2660\" y=\"283\" key=\"FileChooserDialogImpl/1920.9.1920.1040/0.0.1920.1040@1920.9.1920.1040\" timestamp=\"1647565834125\" />\r\n    <state x=\"2381\" y=\"173\" key=\"SettingsEditor\" timestamp=\"1647423141594\">\r\n      <screen x=\"1920\" y=\"9\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"2381\" y=\"173\" key=\"SettingsEditor/1920.9.1920.1040/0.0.1920.1040@1920.9.1920.1040\" timestamp=\"1647423141594\" />\r\n    <state x=\"2543\" y=\"234\" key=\"search.everywhere.popup\" timestamp=\"1647315332719\">\r\n      <screen x=\"1920\" y=\"9\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"2543\" y=\"234\" key=\"search.everywhere.popup/1920.9.1920.1040/0.0.1920.1040@1920.9.1920.1040\" timestamp=\"1647315332719\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 3a1c3d880ef0eabe5d1e654102393094c714a8ff)
++++ .idea/workspace.xml	(date 1647572160027)
+@@ -19,9 +19,8 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b074de0f-11bb-46c3-b82d-b4c9c7564b91" name="Default Changelist" comment="">
++    <list default="true" id="b074de0f-11bb-46c3-b82d-b4c9c7564b91" name="Default Changelist" comment="add model">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -61,8 +60,16 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1647313886302</updated>
+-      <workItem from="1647313887617" duration="32774000" />
++      <workItem from="1647313887617" duration="32833000" />
++    </task>
++    <task id="LOCAL-00001" summary="add model">
++      <created>1647572143199</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1647572143199</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -78,6 +85,10 @@
+         </entry>
+       </map>
+     </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="add model" />
++    <option name="LAST_COMMIT_MESSAGE" value="add model" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="2660" y="283" key="FileChooserDialogImpl" timestamp="1647565834125">
